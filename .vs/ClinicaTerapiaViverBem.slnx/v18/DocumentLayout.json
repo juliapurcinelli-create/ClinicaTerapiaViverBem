@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|c:\\users\\julia\\source\\repos\\clinicaterapiaviverbem\\clinicaterapiaviverbem\\daofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|solutionrelative:clinicaterapiaviverbem\\daofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\clinicaterapiaviverbem\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|solutionrelative:clinicaterapiaviverbem\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\clinicaterapiaviverbem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|solutionrelative:clinicaterapiaviverbem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,20 +35,12 @@
       "RelativeMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|solutionrelative:clinicaterapiaviverbem\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|c:\\users\\julia\\source\\repos\\clinicaterapiaviverbem\\clinicaterapiaviverbem\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\clinicaterapiaviverbem\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|solutionrelative:clinicaterapiaviverbem\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|c:\\users\\julia\\source\\repos\\clinicaterapiaviverbem\\clinicaterapiaviverbem\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\clinicaterapiaviverbem\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|solutionrelative:clinicaterapiaviverbem\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|c:\\users\\julia\\source\\repos\\clinicaterapiaviverbem\\clinicaterapiaviverbem\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|solutionrelative:clinicaterapiaviverbem\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|c:\\users\\julia\\source\\repos\\clinicaterapiaviverbem\\clinicaterapiaviverbem\\daofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|solutionrelative:clinicaterapiaviverbem\\daofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5917313-07AB-492F-8E60-A8AA318CB6DF}|ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem.csproj|C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\clinicaterapiaviverbem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -54,24 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "DAOFinanceiro.cs",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\DAOFinanceiro.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\DAOFinanceiro.cs",
               "ToolTip": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\DAOFinanceiro.cs",
               "RelativeToolTip": "ClinicaTerapiaViverBem\\DAOFinanceiro.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowE0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-10T02:14:16.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Form17.cs",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form17.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\Form17.cs",
@@ -79,24 +79,22 @@
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Form17.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T01:48:32.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T01:48:32.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form17.cs [Design]",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form17.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\Form17.cs",
               "ToolTip": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form17.cs [Design]",
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Form17.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T01:48:27.777Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-10T01:48:27.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form16.cs",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form16.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\Form16.cs",
@@ -104,24 +102,22 @@
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Form16.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwB8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T12:50:05.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T12:50:05.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form16.cs [Design]",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form16.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\Form16.cs",
               "ToolTip": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form16.cs [Design]",
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Form16.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T12:49:29.374Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-09T12:49:29.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form6.cs",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form6.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\Form6.cs",
@@ -129,24 +125,22 @@
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Form6.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T12:45:37.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T12:45:37.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form6.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\Form6.cs",
               "ToolTip": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form6.cs [Design]",
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T12:45:34.162Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-09T12:45:34.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "VALIDA\u00C7AODOCPF.cs",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\VALIDA\u00C7AODOCPF.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\VALIDA\u00C7AODOCPF.cs",
@@ -154,12 +148,11 @@
               "RelativeToolTip": "ClinicaTerapiaViverBem\\VALIDA\u00C7AODOCPF.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T12:34:27.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T12:34:27.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Program.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\Program.cs",
@@ -167,20 +160,18 @@
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T00:33:39.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T00:33:39.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form2.cs",
               "RelativeDocumentMoniker": "ClinicaTerapiaViverBem\\Form2.cs",
               "ToolTip": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form2.cs [Design]",
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T12:27:18.021Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-09T12:27:18.021Z"
             },
             {
               "$type": "Document",
@@ -191,8 +182,7 @@
               "ToolTip": "C:\\Users\\julia\\source\\repos\\ClinicaTerapiaViverBem\\ClinicaTerapiaViverBem\\Form1.cs [Design]",
               "RelativeToolTip": "ClinicaTerapiaViverBem\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T23:48:35.268Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-05T23:48:35.268Z"
             }
           ]
         }
